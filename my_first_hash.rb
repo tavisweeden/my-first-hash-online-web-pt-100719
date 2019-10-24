@@ -23,4 +23,4 @@ def retrieval
 
 end
 retrieval["oil paintings"]
-
+end
